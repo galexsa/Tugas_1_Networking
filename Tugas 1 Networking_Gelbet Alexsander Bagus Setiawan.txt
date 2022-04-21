@@ -1,0 +1,24 @@
+ Tugas 1
+
+
+Silahkan jawab pertanyaan-pertanyaan berikut :
+
+1. OSI memiliki kepanjangan dari ?
+	jawab : Open System Interconnection Layer adalah sebuah model referensi dalam bentuk kerangka konseptual 
+	yang mendefinisikan standar koneksi untuk sebuah komputer.
+
+2. Bilangan 11011001 merupakan contoh bentuk dari bilangan ?
+	jawab : Bilangan biner adalah bilangan berbasis dua yang sistem bilangan yang terdiri dari 0 dan 1.
+   
+3. Bentuk desimal dari 11011001 adalah ?
+	jawab : 217
+
+4. Menjelaskan spesifikasi mekanis, kabel dan fungsional guna menangani data jaringan merupakan proses pada layer ?
+	Jawab : menjelaskan spesifikasi listrik, mekanis dan fungsional guna menangani data jaringan merupakan proses pada (physical layer).
+
+5. Bilangan 3f dan 8a merupakan contoh bentuk dari bilangan ?
+	Jawab : Bilangan Hexadesimal
+       Makna dari bilangan Heksadesimal (Hexadecimal) berasal dari dua suku kata yaitu :hexa yang artinya(enam) ditambah dengan kata decimal 
+       yang artinya sepuluh. Dengan demikian dapat diartikan bahwa bilangan Hexadesimal adalah sebuah sistem bilangan yang menggunakan basis 16, 
+	dimana bilangn tersebut menggunakan 16 simbol. Simbol yang digunakan adalah 10 digit bilangan angka yaitu 0, 1, 2, 3, 4, 5, 6, 7, 8, dan 9 
+	ditambah dengan 6 simbol huruf yaitu huruf A hingga F.
