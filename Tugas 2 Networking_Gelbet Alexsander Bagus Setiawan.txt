@@ -1,0 +1,23 @@
+Tugas 2
+
+1. Oktet pertama yang diawali dengan 128 hingga 191 adalah merupakan pembagian kelas ?
+   Jawab: (kelas B) 10 128 – 191 16
+
+2. Subnet Mask dari CIDR /28 adalah ?
+   jawab: 255.255.255.240	
+
+3. IP Address 127.0.0.1 merupakan bentuk dari ?
+   Jawab : Loopback Address 127.0.0.1 atau 01111111.00000000.00000000.00000001
+	  Loopback Address adalah Alamat IP (IP Address) yang dialokasikan software untuk mengakses host itu sendiri. 
+	  Loopback Address tidak mewakili hardware yang tidak terkoneksi dengan suatu network hanya digunakan untuk menjalankan aplikasi 
+          secara lokal dalam host yang bersangkutan.
+4. CIDR dari Subnet Mask 255.255.0.0 adalah ?
+   Jawab :[ /16]
+
+5. Bagaimana penulisan Subnet Mask dari 192.168.20.20/22 ?
+   Jawab : Analisa/22 netmask (11111111.11111111.11111100.00000000) [255.255.252.0] 
+           Address = 11000000.10101000.00010100.00010100 (192.168.20.20/22)
+	  Subnet       : 192.168.20.00000000 = 192.168.20.0
+	  Host Pertama : 192.168.20.00000001 = 192.168.20.1
+	  Host Terakhir: 192.168.20.11111011 = 192.168.20.251
+	  Broadcast    : 192.168.20.11111100 = 192.168.20.252

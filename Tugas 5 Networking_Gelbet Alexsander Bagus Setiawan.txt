@@ -1,0 +1,25 @@
+Tugas 5
+
+
+Silahkan jawab pertanyaan-pertanyaan berikut :
+
+
+1. Video dan Audio Streaming merupakan penggunaan protokol ?
+   Jawab: Menggunakan UDP Protokol Connectionless
+
+2. Benar atau salah bahwa protokol UDP memiliki kecepatan lebih rendah daripada protokol TCP ?
+   Jawab [Salah] Perbedaan mendasar antara TCP dan UDP adalah saat pengiriman data. Data yang diterima dengan protokol TCP lebih terjamin
+   karena memiliki nomor urut dan akan dipulihkan apabila terjadi kesalahan sedangkan UDP tidak. Inilah yang menjadi 
+   alasan mengapa UDP lebih cepat dari TCP.
+
+3. Benar atau salah bahwa DHCP memiliki fungsi untuk merubah IP Address kedalam bentuk Domain (cth: google.com) ?
+   jawab : [Salah] Adalah layanan yang secara otomatis memberikan nomor IP kepada komputer yang memintanya. 
+   Komputer yang memberikan nomor IP disebut sebagai DHCP server, sedangkan komputer yang meminta nomor IP disebut sebagai DHCP Client.
+
+4. DNS (Domain Name Server) adalah ?
+   Jawab : Adalah server yang digunakan untuk mengetahui IP Address suatu host lewat host name-nya. 
+   Dalam dunia internet, komputer berkomunikasi satu sama lain dengan mengenali IP Address-nya.
+
+5. Gambar berikut merupakan contoh dari penggunaan protokol ? :
+   Jawab : Protokol TCP (Transmission Control Protocol) 
+

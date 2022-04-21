@@ -1,0 +1,25 @@
+Tugas 9
+
+
+Silahkan jawab pertanyaan-pertanyaan berikut :
+
+
+1. Cara untuk membagi bandwith kepada user-user tertentu dengan cara memperioritaskan koneksi daripada user lain adalah dengan cara metode ?
+   Jawab : [Priority]
+
+2. Jitter adalah ?
+   JAwab : Jitter adalah ukuran variabilitas dalam ping seiring waktu. Jitter yang tinggi dapat menghasilkan buffering dan interupsi lainnya.
+   Ping diukur dalam milisekon. Paket hilang: Paket hilang terjadi saat suatu paket data yang dikirim lewat internet tidak diterima atau
+   tidak utuh.
+   Jitter adalah variasi waktu dari sinyal periodik dalam elektronik dan telekomunikasi, sering kali dalam kaitannya dengan sumber 
+   referensi jam. Jitter dapat diamati dalam karakteristik seperti frekuensi berturut-turut pulses, amplitude sinyal, atau fasa dari 
+   sinyal periodik.
+
+3. Pada QOS, suatu parameter yang menggambarkan suatu kondisi hilangnya paket pada saat sampai tujuan adalah pengertian dari ?
+   Jawab : Packet Loss
+
+4. Ipv6 dengan alamat 0000:0000:0000:0000:0000:0000:0000:0001 apabila dipendekkan akan menjadi ?
+   Jawab : 0:0:0:0:0:0:0:1  = :1
+
+5. Benar atau salah bahwa ipv6 memiliki panjang sebesar 126-bit ?
+   Jawab : [Salah]  alamat IPv6 memiliki panjang 128-bit.Memiliki total alamat yang mungkin hingga 2128=3,4 x 1038 alamat. 

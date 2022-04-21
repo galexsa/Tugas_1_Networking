@@ -1,0 +1,20 @@
+Tugas 3
+
+1. Unicast adalah ?
+ Jawab: Unicast adalah metode pengiriman pada IPv4 yang konsepnya adalah “Point to Point” atau “One to One”, 
+ jadi paket yang dikirim hanya akan diterima oleh satu host. Analoginya yang berada dalam 1 segment jaringan. 
+ Lalu ada 2 PC yang sedang berkomunikasi contohnya PC0 dengan PC1, PC selain PC0 dan PC1 tidak akan mengetahui ataupun ikut berkomunikasi.
+
+2. Multicast adalah ?
+  Jawab : Multicast adalah metode pengiriman pada IPv4 yang memiliki konsep “One to Many“. 
+  Multicast menggunakan IP 224.0.0.0 – 239.255.255.255. Dapat kita analogikan ada PC0, PC1, PC2, PC3, dan PC4. Lalu PC0, PC1, 
+  dan PC2 sedang berkomunikasi tanpa diikuti oleh PC3 dan PC4. 
+
+3. White-orange, Orange, White-green, Blue, White-blue, Green, White-brown, Brown merupakan tipe penyusunan pin kabel RJ-45 berjenis ?
+   JAwab : Straight T-568B
+
+4. Nama/jenis kabel berikut adalah :
+   Jawab : Kabel UTP RJ-11
+
+5. Nama/jenis kabel berikut adalah :
+   Jawab: RP- TNC
